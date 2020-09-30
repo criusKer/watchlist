@@ -3,3 +3,6 @@
 __pycache__
 .DS_Store
 */.idea/
+.env
+.idea/
+.flaskenv
